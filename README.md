@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Daniel. I'm software developer from Slovakia.
+
 
 <!--
 **danielhorvath87/danielhorvath87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
