@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Daniel. I'm software developer from Slovakia.
 
 
+[![](https://visitcount.itsvg.in/api?id=danielhorvath87&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **danielhorvath87/danielhorvath87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
