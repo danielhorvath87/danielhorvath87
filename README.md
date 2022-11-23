@@ -20,6 +20,24 @@ I am software develop 👨🏻‍💻 in [Linkthat](https://www.linkthat.eu/en/h
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <!--
+![](https://github-profile-trophy.vercel.app/?username=danielhorvath87&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhorvath87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=danielhorvath87&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=danielhorvath87&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=danielhorvath87&show_icons=true" />
+</picture>
+-->
+
+<!--
 #### Repository stats
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=danielhorvath87&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
