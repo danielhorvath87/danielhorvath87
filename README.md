@@ -1,6 +1,8 @@
 ## 👋 Hey, I'm **Daniel**
 
-I'm software develop and tech enthusiast building the custom apps and everything around it. Currently working as Frontend developer in [Linkthat](https://www.linkthat.eu/en/home-en/) and Fullstach developer in [WebLab](https://www.weblab.ltd). My primary tech stack is JavaScript/TypeScript (React, Redux, NodeJs, AdonisJS, MySQL). Keeping up with the tech environment :man_technologist: and experimenting is my cup of coffee too :coffee:.
+I'm software develop and tech enthusiast building the custom apps and everything around it. Currently working as Frontend developer in [Linkthat](https://www.linkthat.eu/en/home-en/) and Fullstach developer in [WebLab](https://www.weblab.ltd). 
+
+My primary tech stack is JavaScript/TypeScript (React, Redux, NodeJs, AdonisJS, MySQL). Keeping up with the tech environment :man_technologist: and experimenting is my cup of coffee too :coffee:.
 
 #### 🚀 Technologies and tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
