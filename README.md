@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm **Daniel**
 
-I'm software develop and tech enthusiast building the custom apps and everything around it. Currently working as Frontend developer in [Linkthat](https://www.linkthat.eu/en/home-en/) and Fullstack developer in [WebLab](https://www.weblab.ltd). 
+I'm software develop and tech enthusiast building the custom apps and everything around it. Currently working as Frontend developer.
 
 My primary tech stack is JavaScript/TypeScript (React, Redux, NodeJs, AdonisJS, MySQL). Keeping up with the tech environment :man_technologist: and experimenting is my cup of coffee too :coffee:.
 
